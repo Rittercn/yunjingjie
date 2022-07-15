@@ -433,7 +433,7 @@ export default {
 
 				// x:240 y:426
 				let codex = 0.7006
-				let codey = 0.8546
+				let codey = 0.8246
 				let codeSize = 0.21666
 				let namex = 0.4283
 				let namey = 0.8215

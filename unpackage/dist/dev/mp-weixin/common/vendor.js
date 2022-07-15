@@ -11481,7 +11481,7 @@ var _index = __webpack_require__(/*! @/plugin/image-tools/index.js */ 36);functi
 
         // x:240 y:426
         var codex = 0.7006;
-        var codey = 0.8546;
+        var codey = 0.8246;
         var codeSize = 0.21666;
         var namex = 0.4283;
         var namey = 0.8215;
